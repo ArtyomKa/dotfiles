@@ -1,3 +1,3 @@
 [submodule ".config/nvim/lua/custom"]
 	path = .config/nvim/lua/custom
-	url = git@github.com-ArtyomKa:ArtyomKa/artyomka-nvchad-custom.git
+	url = https://github.com/ArtyomKa/artyomka-nvchad-custom.git
